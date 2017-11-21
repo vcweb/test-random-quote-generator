@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>93e43d5e-4f49-41f1-a3c7-41c6b37ce0df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>server.js</StartupFile>
+    <StartupFile>script.js</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,13 +28,13 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="server.js" />
+    <Compile Include="script.js" />
     <Content Include="package.json" />
-    <Content Include="Page1.html">
+    <Content Include="index.html">
       <SubType>Code</SubType>
     </Content>
     <Content Include="README.md" />
-    <Content Include="StyleSheet1.css">
+    <Content Include="Style.css">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
