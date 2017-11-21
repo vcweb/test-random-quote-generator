@@ -1,0 +1,9 @@
+{
+  "name": "test-random-quote-generator",
+  "version": "0.0.0",
+  "description": "test random quote generator",
+  "main": "server.js",
+  "author": {
+    "name": "Tom"
+  }
+}
